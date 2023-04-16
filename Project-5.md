@@ -1,5 +1,6 @@
 # Born Free But Everywhere in SHACL #
 
+
 For this project, the class will divide into two teams. Teams will be divided according to the following tasks: 
 ```
 1. Construct and validate a SHACL scheme for Basic Formal Ontology
